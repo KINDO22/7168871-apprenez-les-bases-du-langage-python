@@ -1,1 +1,3 @@
-## Écrivez votre code ici !
+print("j'apprend a coder en lanqhage python")
+17+35*2
+print("17+35*2")
